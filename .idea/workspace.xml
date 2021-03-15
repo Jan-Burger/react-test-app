@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ffe62d-801f-4d1f-972b-26731237a0d9" name="Default Changelist" comment="My first react commit">
-      <change afterPath="$PROJECT_DIR$/components/Person.js" afterDir="false" />
+    <list default="true" id="f5ffe62d-801f-4d1f-972b-26731237a0d9" name="Default Changelist" comment="Added Person component">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,6 +36,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -51,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615643241686</updated>
-      <workItem from="1615643243070" duration="797000" />
+      <workItem from="1615643243070" duration="3513000" />
     </task>
     <task id="LOCAL-00001" summary="My first react commit">
       <created>1615643729236</created>
@@ -60,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615643729236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Person component">
+      <created>1615644063597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615644063597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first react commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first react commit" />
+    <MESSAGE value="Added Person component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Person component" />
   </component>
 </project>
