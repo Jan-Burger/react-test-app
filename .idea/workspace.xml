@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ffe62d-801f-4d1f-972b-26731237a0d9" name="Default Changelist" comment="Added Person component">
-      <change afterPath="$PROJECT_DIR$/src/components/Person.css" afterDir="false" />
+    <list default="true" id="f5ffe62d-801f-4d1f-972b-26731237a0d9" name="Default Changelist" comment="Basics of react compleated!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
@@ -69,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1615643241686</updated>
       <workItem from="1615643243070" duration="3513000" />
-      <workItem from="1615835451609" duration="6168000" />
+      <workItem from="1615835451609" duration="6283000" />
+      <workItem from="1615912953433" duration="7600000" />
     </task>
     <task id="LOCAL-00001" summary="My first react commit">
       <created>1615643729236</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615644063597</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Basics of react compleated!">
+      <created>1615845440029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615845440029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first react commit" />
     <MESSAGE value="Added Person component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Person component" />
+    <MESSAGE value="Basics of react compleated!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basics of react compleated!" />
   </component>
 </project>
