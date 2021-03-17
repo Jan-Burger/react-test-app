@@ -1,6 +1,7 @@
 import './App.css';
 import React, {useState} from 'react';
 import Person from "./components/Person";
+import Radium, {StyleRoot} from "radium";
 
 function App() {
 
@@ -59,11 +60,15 @@ function App() {
   };
 
   const style = {
-     backgroundColor: "white",
+     backgroundColor: "green",
      font: "inherit",
      border: "1px solid blue",
      padding: "8px",
-     cursor: "pointer"
+     cursor: "pointer",
+      ":hover": {
+         backgroundColor: "blue",
+         color: "black"
+      }
   };
 
   let persons = null;
@@ -82,17 +87,34 @@ function App() {
               })}
           </div>
       );
-  };
+  } else {
+            style.backgroundColor = "red";
+            style[":hover"] =  {
+         backgroundColor: "yellow",
+         color: "black"
+      }
+  }
+
+  let classes = []
+  if (personsSate.persons.length <= 2) {
+      classes.push("red");
+  }
+  if (personsSate.persons.length <= 1) {
+      classes.push("bold");
+  }
 
   return (
+      <StyleRoot>
     <div className="App">
       <h1>Ich bin eine Überschrift</h1>
+        <p className={classes.join(" ")}>Ich bin ein Paragraph</p>
       <button onClick={togglePersonHandler}
       style={style}>Toggle Persons</button>
       {persons}
 
     </div>
+          </StyleRoot>
   );
 }
 
-export default App;
+export default Radium(App);

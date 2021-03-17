@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ffe62d-801f-4d1f-972b-26731237a0d9" name="Default Changelist" comment="Basics of react compleated!">
+    <list default="true" id="f5ffe62d-801f-4d1f-972b-26731237a0d9" name="Default Changelist" comment="Finished Lists and conditionals!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
     </list>
@@ -69,7 +72,8 @@
       <updated>1615643241686</updated>
       <workItem from="1615643243070" duration="3513000" />
       <workItem from="1615835451609" duration="6283000" />
-      <workItem from="1615912953433" duration="7600000" />
+      <workItem from="1615912953433" duration="7722000" />
+      <workItem from="1616011372772" duration="3306000" />
     </task>
     <task id="LOCAL-00001" summary="My first react commit">
       <created>1615643729236</created>
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615845440029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished Lists and conditionals!">
+      <created>1615933592799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615933592799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +125,7 @@
     <MESSAGE value="My first react commit" />
     <MESSAGE value="Added Person component" />
     <MESSAGE value="Basics of react compleated!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basics of react compleated!" />
+    <MESSAGE value="Finished Lists and conditionals!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Lists and conditionals!" />
   </component>
 </project>
