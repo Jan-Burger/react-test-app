@@ -1,7 +1,6 @@
 import './App.css';
 import React, {useState} from 'react';
 import Person from "./components/Person";
-import Radium, {StyleRoot} from "radium";
 
 function App() {
 
@@ -104,7 +103,6 @@ function App() {
   }
 
   return (
-      <StyleRoot>
     <div className="App">
       <h1>Ich bin eine Überschrift</h1>
         <p className={classes.join(" ")}>Ich bin ein Paragraph</p>
@@ -113,8 +111,7 @@ function App() {
       {persons}
 
     </div>
-          </StyleRoot>
   );
 }
 
-export default Radium(App);
+export default App;

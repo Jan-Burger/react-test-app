@@ -5,8 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ant-demo-cra" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,6 +75,8 @@
       <workItem from="1615835451609" duration="6283000" />
       <workItem from="1615912953433" duration="7722000" />
       <workItem from="1616011372772" duration="3306000" />
+      <workItem from="1616535200662" duration="44000" />
+      <workItem from="1616702682771" duration="1703000" />
     </task>
     <task id="LOCAL-00001" summary="My first react commit">
       <created>1615643729236</created>
